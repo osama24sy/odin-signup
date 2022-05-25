@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'currell';
+    src:  url('./fonts/cruelldemo-wyelv-webfont.woff2') format('woff2'),
+          url('./fonts/cruelldemo-wyelv-webfont.woff') format('woff');
+  }
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
